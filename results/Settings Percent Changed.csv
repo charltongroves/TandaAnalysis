@@ -1,0 +1,44 @@
+Setting Name,Percent Changed,Impact
+login_work_mins_increment,37.33%,Explicit
+logout_work_mins_increment,33.33%,Explicit
+login_work_mins_increment_aggressive,22.0%,Explicit
+logout_work_mins_increment_aggressive,27.33%,Explicit
+round_logouts_to_rosters,25.67%,Explicit
+round_logins_to_rosters,22.67%,Explicit
+breaks_enabled,18.67%,Explicit
+min_action_interval,6.67%,Implicit
+automatic_break_length,30.0%,Explicit
+minimum_shift_length_for_auto_breaks,42.0%,Explicit
+append_automatic_breaks,9.0%,Explicit
+default_passcode_length,2.33%,Explicit
+maximum_shift_length,22.67%,Implicit
+minimum_duration_between_shifts,19.33%,Implicit
+copy_rosters,0.0%,Implicit
+managers_can_see_costs,34.67%,Explicit
+managers_can_share_rosters,8.33%,Explicit
+managers_can_update_their_timesheets,15.0%,Explicit
+leave_request_notifications,19.33%,Explicit
+cost_leave_on_weekends,16.67%,Explicit
+show_weekends,6.33%,Explicit
+staff_have_full_timesheet_access,2.67%,Implicit
+staff_can_edit_timesheets,21.0%,Explicit
+staff_can_see_export_summary,3.33%,Implicit
+approve_shifts_created_from_rosters,13.67%,Implicit
+enable_flexi_time_zones,4.67%,Implicit
+enable_roster_validation,18.0%,Explicit
+roster_validation_max_length,15.0%,Implicit
+roster_validation_min_gap,8.0%,Implicit
+roster_validation_max_shifts_in_day,15.33%,Implicit
+roster_validation_max_shifts_in_week,16.33%,Implicit
+roster_validation_max_hours_in_week,17.33%,Implicit
+roster_validation_min_length,10.33%,Implicit
+enable_multi_level_shift_filters,42.33%,Implicit
+expected_hours_in_pay_period,36.33%,Explicit
+time_clock_cost_centre_mode,1.67%,Implicit
+leave_request_default_length,16.67%,Explicit
+public_holiday_region_list,no data,Explicit
+show_holiday_dates,no data,Explicit
+enable_text_for_roster,5.0%,Explicit
+enable_employee_leave,0.67%,Explicit
+enable_availability,64.67%,Explicit
+unavailability_minimum_days,15.33%,Implicit
